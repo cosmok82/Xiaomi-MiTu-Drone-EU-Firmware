@@ -7,11 +7,13 @@
 <br>
 Author: Cosimo Orlando.<br>
 Blog: http://creativityslashdesign.com/<br>
-<br>Xiaomi MiTu Drone firmware to enable the 5GHz bandwidth compatible with Europe frequencies, usually run on Channel 100.<br>
+<br>Xiaomi MiTu Drone firmware to enable the 5GHz bandwidth compatible with Europe frequencies.<br>
 <br>
 These file is released under a MIT License.
 <br>
 The complete article on my blog.
+<br>
+<br>
 <br>
 
     1.0.0 (2018-05-23)
